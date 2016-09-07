@@ -45,3 +45,4 @@ function precedent(pNumero) {
     xhr_object.send(data); 
 		   
 }
+a
