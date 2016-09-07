@@ -3,9 +3,9 @@
 class clstBDD {
 /*----------------Propriétés de la classe  -----------------------------------*/
 var $connexion ; 
-var $dsn = 'mysql:host=localhost;dbname=16ppe2g04' ;
-var $util = "16ppe2g04";
-var $passe ="simple@49";
+var $dsn = 'mysql:host=localhost;dbname=' ;
+var $util = "";
+var $passe ="";
 /*---------------------- Accés aux propriétés --------------------------------------*/
 	function getConnexion() {return $this->connexion;}
         function getDsn() {return $this->dsn;}
